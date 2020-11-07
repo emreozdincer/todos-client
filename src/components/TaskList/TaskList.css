@@ -1,0 +1,4 @@
+.hoverable:hover {
+    background-color: gainsboro;
+    padding: 6px 0px;
+}
