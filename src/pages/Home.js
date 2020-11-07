@@ -69,7 +69,7 @@ const Home = () => {
 
     return (
         <>
-            <Grid container style={{ margin: 30 }} textAlign="center">
+            <Grid container style={{ margin: 40 }} textAlign="center">
                 <Grid.Row style={{ marginBottom: 20 }}>
                     <Grid.Column>
                         <Header size="huge" color="teal">
